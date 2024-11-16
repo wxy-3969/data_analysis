@@ -3,7 +3,6 @@ import numpy as np
 import random
 from datetime import datetime, timedelta
 
-
 # 生成示例数据
 def generate_sales_data():
     num_records = 1000
